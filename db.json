@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "title": "The Future of Web Development: React 19 and Beyond",
+    "slug": "future-web-dev-react-19",
+    "author": {
+      "id": 101,
+      "name": "Jane Doe",
+      "email": "jane.doe@example.com",
+      "bio": "Jane is a senior frontend developer with a passion for React and modern web technologies. She loves exploring new trends and sharing her knowledge with the community."
+    },
+    "date": "2025-06-03T10:30:00Z",
+    "lastUpdated": "2025-06-03T11:45:00Z",
+    "category": {
+      "id": 1,
+      "name": "Web Development",
+      "slug": "web-development"
+    },
+    "tags": [
+      { "id": 1, "name": "React" },
+      { "id": 2, "name": "Frontend" },
+      { "id": 3, "name": "JavaScript" },
+      { "id": 4, "name": "React 19" }
+    ],
+    "featuredImage": {
+      "url": "https://placehold.co/1200x600/E0F2F7/2C3E50?text=React+19+Blog",
+      "alt": "Abstract illustration representing web development and React 19"
+    },
+    "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "content": "## Unveiling React 19: A Paradigm Shift\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\n\n### Server Components and Their Impact\n\nCurabitur pretium tincidunt lacus. Nulla gravida orci a odio. Nullam varius, turpis et commodo pharetra, est eros bibendum elit, nec luctus magna felis sollicitudin mauris. Integer in mauris eu nibh euismod gravida. Duis ac tellus et risus auctor iaculis. Mauris vel nisl eu eros accumsan laoreet. Nulla facilisi. Proin a leo. Nam vitae erat vel lacus egestas a. Mauris vel nisl eu eros accumsan laoreet. Nulla facilisi. Proin a leo.\n\n* **Performance Boost**: Lorem ipsum dolor sit amet, consectetur adipiscing elit.\n* **Simplified Data Fetching**: Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\n* **Enhanced SEO**: Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.\n\n### The Power of Actions\n\nVivamus non arcu vel ligula ultrices placerat. Sed non quam. In vel mi sit amet augue congue elementum. Morbi in ipsum sit amet pede facilisis laoreet. Donec lacus nunc, viverra nec, blandit vel, egestas et, augue. Vestibulum tincidunt malesuada tellus. Ut ultrices ultrices enim. Curabitur sit amet mauris. Morbi in ipsum sit amet pede facilisis laoreet. Donec lacus nunc, viverra nec, blandit vel, egestas et, augue.\n\n### The Promise of the React Compiler\n\nPhasellus sit amet magna ac quam eleifend egestas. Pellentesque ac ante. Cras elementum. Suspendisse sed lectus. Proin id erat. Ut ultrices ultrices enim. Curabitur sit amet mauris. Morbi in ipsum sit amet pede facilisis laoreet. Donec lacus nunc, viverra nec, blandit vel, egestas et, augue. Vestibulum tincidunt malesuada tellus. Ut ultrices ultrices enim. Curabitur sit amet mauris.\n\n## Conclusion\n\nFusce at massa nec sapien auctor gravida. Integer in mauris eu nibh euismod gravida. Duis ac tellus et risus auctor iaculis. Mauris vel nisl eu eros accumsan laoreet. Nulla facilisi. Proin a leo. Nam vitae erat vel lacus egestas a. Mauris vel nisl eu eros accumsan laoreet. Nulla facilisi. Proin a leo. Nam vitae erat vel lacus egestas a. Mauris vel nisl eu eros accumsan laoreet. Nulla facilisi. Proin a leo."
+  },
+  {
+    "id": 2,
+    "title": "Mastering Responsive Design with Tailwind CSS",
+    "slug": "responsive-design-tailwind-css",
+    "author": {
+      "id": 102,
+      "name": "John Smith",
+      "email": "john.smith@example.com",
+      "bio": "John is a UI/UX enthusiast and a strong advocate for utility-first CSS frameworks. He loves building beautiful and accessible web interfaces."
+    },
+    "date": "2025-05-28T09:00:00Z",
+    "lastUpdated": "2025-05-29T10:15:00Z",
+    "category": {
+      "id": 2,
+      "name": "Frontend Development",
+      "slug": "frontend-development"
+    },
+    "tags": [
+      { "id": 5, "name": "Tailwind CSS" },
+      { "id": 6, "name": "CSS" },
+      { "id": 2, "name": "Frontend" },
+      { "id": 7, "name": "Responsive Design" }
+    ],
+    "featuredImage": {
+      "url": "https://placehold.co/1200x600/CFD8DC/2C3E50?text=Tailwind+CSS",
+      "alt": "Abstract illustration of a responsive grid layout with Tailwind CSS"
+    },
+    "excerpt": "Curabitur pretium tincidunt lacus. Nulla gravida orci a odio. Nullam varius, turpis et commodo pharetra, est eros bibendum elit, nec luctus magna felis sollicitudin mauris.",
+    "content": "## The Power of Utility-First CSS\n\nCurabitur pretium tincidunt lacus. Nulla gravida orci a odio. Nullam varius, turpis et commodo pharetra, est eros bibendum elit, nec luctus magna felis sollicitudin mauris. Integer in mauris eu nibh euismod gravida. Duis ac tellus et risus auctor iaculis. Mauris vel nisl eu eros accumsan laoreet. Nulla facilisi. Proin a leo. Nam vitae erat vel lacus egestas a. Mauris vel nisl eu eros accumsan laoreet. Nulla facilisi. Proin a leo.\n\n### Key Principles of Responsive Tailwind\n\nVivamus non arcu vel ligula ultrices placerat. Sed non quam. In vel mi sit amet augue congue elementum. Morbi in ipsum sit amet pede facilisis laoreet. Donec lacus nunc, viverra nec, blandit vel, egestas et, augue. Vestibulum tincidunt malesuada tellus. Ut ultrices ultrices enim. Curabitur sit amet mauris. Morbi in ipsum sit amet pede facilisis laoreet. Donec lacus nunc, viverra nec, blandit vel, egestas et, augue.\n\n* **Mobile-First Approach**: Lorem ipsum dolor sit amet, consectetur adipiscing elit.\n* **Breakpoint Modifiers**: Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\n* **Flexbox and Grid**: Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.\n\n### Building Adaptive Layouts\n\nPhasellus sit amet magna ac quam eleifend egestas. Pellentesque ac ante. Cras elementum. Suspendisse sed lectus. Proin id erat. Ut ultrices ultrices enim. Curabitur sit amet mauris. Morbi in ipsum sit amet pede facilisis laoreet. Donec lacus nunc, viverra nec, blandit vel, egestas et, augue. Vestibulum tincidunt malesuada tellus. Ut ultrices ultrices enim. Curabitur sit amet mauris.\n\n## Conclusion\n\nFusce at massa nec sapien auctor gravida. Integer in mauris eu nibh euismod gravida. Duis ac tellus et risus auctor iaculis. Mauris vel nisl eu eros accumsan laoreet. Nulla facilisi. Proin a leo. Nam vitae erat vel lacus egestas a. Mauris vel nisl eu eros accumsan laoreet. Nulla facilisi. Proin a leo. Nam vitae erat vel lacus egestas a. Mauris vel nisl eu eros accumsan laoreet. Nulla facilisi. Proin a leo."
+  },
+  {
+    "id": 3,
+    "title": "Understanding Asynchronous JavaScript: Promises and Async/Await",
+    "slug": "async-js-promises-async-await",
+    "author": {
+      "id": 103,
+      "name": "Emily White",
+      "email": "emily.white@example.com",
+      "bio": "Emily is a JavaScript expert and loves demystifying complex concepts. She's passionate about clean code and efficient asynchronous patterns."
+    },
+    "date": "2025-05-20T14:00:00Z",
+    "lastUpdated": "2025-05-21T15:30:00Z",
+    "category": {
+      "id": 3,
+      "name": "JavaScript Fundamentals",
+      "slug": "javascript-fundamentals"
+    },
+    "tags": [
+      { "id": 3, "name": "JavaScript" },
+      { "id": 8, "name": "Asynchronous" },
+      { "id": 9, "name": "Promises" },
+      { "id": 10, "name": "Async/Await" }
+    ],
+    "featuredImage": {
+      "url": "https://placehold.co/1200x600/F0F4C3/2C3E50?text=Async+JS",
+      "alt": "Abstract illustration representing asynchronous operations in JavaScript"
+    },
+    "excerpt": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.",
+    "content": "## The Evolution of Asynchronous Patterns in JavaScript\n\nPellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus.\n\n### Understanding Promises\n\nNullam quis massa sit amet nisl suscipit egestas. Nulla facilisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; In hac habitasse platea dictumst. Curabitur pretium tincidunt lacus. Nulla gravida orci a odio. Nullam varius, turpis et commodo pharetra, est eros bibendum elit, nec luctus magna felis sollicitudin mauris. Integer in mauris eu nibh euismod gravida. Duis ac tellus et risus auctor iaculis.\n\n### The Elegance of Async/Await\n\nMauris vel nisl eu eros accumsan laoreet. Nulla facilisi. Proin a leo. Nam vitae erat vel lacus egestas a. Mauris vel nisl eu eros accumsan laoreet. Nulla facilisi. Proin a leo. Nam vitae erat vel lacus egestas a. Mauris vel nisl eu eros accumsan laoreet. Nulla facilisi. Proin a leo. Nam vitae erat vel lacus egestas a. Mauris vel nisl eu eros accumsan laoreet. Nulla facilisi. Proin a leo.\n\n## Conclusion\n\nDonec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus."
+  }
+]
