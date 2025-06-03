@@ -6,7 +6,7 @@
     "author": {
       "id": 101,
       "name": "Jane Doe",
-      "email": "jane.doe@example.com",
+      "email": "jane.doe@example.com"
      
     },
     "date": "2025-06-03T10:30:00Z",
@@ -36,7 +36,7 @@
     "author": {
       "id": 102,
       "name": "John Smith",
-      "email": "john.smith@example.com",
+      "email": "john.smith@example.com"
      
     },
     "date": "2025-05-28T09:00:00Z",
