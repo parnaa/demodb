@@ -25,9 +25,8 @@
       "featuredImage": {
         "url": "https://placehold.co/1200x600/E0F2F7/2C3E50?text=React+19+Blog",
         "alt": "Abstract illustration representing web development and React 19"
-      },
-      "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      "content": "## Unveiling React 19: A Paradigm Shift\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      },      
+      "content": "## Unveiling React 19: A Paradigm Shift\n\n Lorem ipsum dolor sit amet, This is dummy blocg content . Lorem Ipsum is dummy text to fill the placeholder. Vesti consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     },
     {
       "id": 2,
@@ -55,8 +54,7 @@
         "url": "https://placehold.co/1200x600/CFD8DC/2C3E50?text=Tailwind+CSS",
         "alt": "Abstract illustration of a responsive grid layout with Tailwind CSS"
       },
-      "excerpt": "Curabitur pretium tincidunt lacus. Nulla gravida orci a odio. Nullam varius, turpis et commodo pharetra, est eros bibendum elit, nec luctus magna felis sollicitudin mauris.",
-      "content": "## The Power of Utility-First CSS\n\nCurabitur pretium tincidunt lacus. Nulla gravida orci a odio. Nullam varius, turpis et commodo pharetra, est eros bibendum elit, nec luctus magna felis sollicitudin mauris."
+      "content": "## The Power of Utility-First CSS\n\nCurabitur pretium tincidunt lacus. This is dummy blocg content . Lorem Ipsum is dummy text to fill the placeholder. Nulla gravida orci a odio. Nullam varius, turpis et commodo pharetra, est eros bibendum elit, nec luctus magna felis sollicitudin mauris."
     }
   ]
 }
